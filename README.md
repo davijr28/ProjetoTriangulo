@@ -1,2 +1,2 @@
 # projetoTriangulo
-calcula a área do triângulo utilizando orientação a objeto
+O programa utiliza orientação a objetos para calcular a área de um triângulo.
